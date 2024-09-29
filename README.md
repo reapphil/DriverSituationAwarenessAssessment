@@ -1,11 +1,5 @@
 # Driver Situation Awareness Assessment
 
-A Unity project developed
-for the ```What Characterizes "Situations" in Situation Awareness? Findings from a Human-centered Investigation```
-study.
-
-## Abstract
-
 Situation Awareness (SA) is one of the core concepts describing drivers’ interaction with vehicles, and the lack of SA
 has contributed to multiple incidents with automated systems. Despite existing definitions and measurements, little is
 known about what constitutes the concept of situations from users’ perspective, i.e., do they have a similar or
@@ -17,13 +11,12 @@ while partly being influenced by the road type. Additionally, we found correlati
 durations, criticality ratings, and algorithm output, which can be exploited by future applications and experiments.
 
 ## Table of Contents
-- [Abstract](#abstract)
 - [Introduction](#introduction)
+- [Citation](#citation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Application](#application)
 - [Results/Data](#resultsdata)
-- [License](#license)
 - [Contact Information](#contact-information)
 - [Link to Study](#link-to-study)
 
@@ -33,6 +26,21 @@ This project is a Unity application developed in order to conduct a study on sit
 driving. The study aims to investigate the characteristics of situations from the perspective of the participants. The
 application presents the participants with a series of videos showing driving scenarios and asks them to mark the onset
 of new situations, provide a continuous criticality rating, and justify their decisions in a post-test interview.
+
+## Citation
+Please cite our paper as:
+
+```
+@article{asteriou2024situationAwarness,
+  title={What Characterizes "Situations" in Situation Awareness? Findings from a Human-centered Investigation},
+  author={Asteriou, Kotsios and Wintersberger},
+  booktitle={Proceedings of the 16th International Conference on Automotive User Interfaces and Interactive Vehicular Applications},
+  pages={216--226},
+  year={2024},
+  publisher = {Association for Computing Machinery},
+  doi = {https://doi.org/10.1145/3640792.3675722}
+}
+```
 
 ## Installation
 
